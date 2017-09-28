@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This module is basic version of event management basic, built using Rails API Framework. It shows the usage of API, Active Recird Serializers, Rspec.
 
-Things you may want to cover:
+* Ruby version = 2.4.1
 
-* Ruby version
+* Rails version > 5
 
-* System dependencies
+* change the database.yml accordingly
 
-* Configuration
+* rake db:migrate
 
-* Database creation
+* rake db:seed
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* or rake db:setup
