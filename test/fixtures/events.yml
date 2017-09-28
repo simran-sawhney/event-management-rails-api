@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  duration: 1.5
+  is_started: 1
+  is_completed: 1
+  is_published: 1
+  is_deleted: 1
+  latitude: 9.99
+  longitude: 9.99
+  owner_id: 1
+  description: 'This is description of the event'
+  start_date: 20170922
